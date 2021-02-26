@@ -13,6 +13,7 @@ Requierments:
 1. Create directory
 
   mkdir composetest
+  
   cd composetest
 
 2. Copy Dockerfile to dir
