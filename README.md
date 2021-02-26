@@ -11,6 +11,7 @@ Requierments:
 ## Setup environment
 
 1. Create directory
+
   mkdir composetest
   cd composetest
 
@@ -23,7 +24,7 @@ Requierments:
 
 5. Go to http://localhost:8888/
  
-6. Copy inclusive_ip_ranges.ipynb file to work directory or direcly into jupyter notebook
+6. Copy exclusive_ip_ranges.ipynb file to work directory or direcly into jupyter notebook
 
 7. Run the code
 
