@@ -12,9 +12,9 @@ Requierments:
 
 1. Create directory
 
-  mkdir composetest
+  mkdir test
   
-  cd composetest
+  cd test
 
 2. Copy Dockerfile to dir
 
