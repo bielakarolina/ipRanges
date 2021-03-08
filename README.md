@@ -25,7 +25,7 @@ Requierments:
 
 5. Go to http://localhost:8888/
  
-6. Copy exclusive_ip_ranges.ipynb file to work directory or direcly into jupyter notebook
+6. Copy exclusive_ip_ranges.ipynb and inclusive_ip_ranges.v2.0 (only inclusive_ip_ranges.v2.0 if you want to look for better one :D) file to work directory or direcly into jupyter notebook
 
 7. Run the code
 
